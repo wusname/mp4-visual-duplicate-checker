@@ -1,3 +1,12 @@
+## Download
+
+Download the latest ZIP from the Releases page:
+
+- Go to Releases
+- Download `mp4_duplicate_checker_v0.1.0_beta.zip`
+- Extract the ZIP
+- Run `run_mp4_duplicate_checker_v7.bat`
+
 # MP4 Duplicate Checker
 
 A lightweight Windows tool for checking duplicate MP4 videos across multiple folders.
